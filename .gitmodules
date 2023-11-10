@@ -1,0 +1,3 @@
+[submodule "multilabel_classification"]
+	path = multilabel_classification
+	url = https://github.com/kauber/multilabel_classification.git
